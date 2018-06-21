@@ -1,8 +1,8 @@
-# Yet Another SoundCloud Client
+# Das Mu - Yet Another SoundCloud Client
 
 ![Captura de tela_2018-01-08_21-47-06 (1)](./screenshot.png)
 
-See this application live at: [here](http://carlosqsilva.github.io/YASCC)
+<!-- See this application live at: [here](http://carlosqsilva.github.io/YASCC) -->
 
 This application was bootstraped using [create-react-app](https://github.com/facebook/create-react-app), but instead of React was used [Preact](https://github.com/developit/preact/) A 3kb React alternative that works with the same ES6 API, together with [preact-compat](https://github.com/developit/preact-compat) a React compatibility layer for Preact. Also uses:
 
@@ -28,4 +28,4 @@ Feel free to submit pull requests, create issues or spread the word
 
 # License
 
-[MIT License](./LICENSE) © [Carlos Silva](carloseng.com)
+[MIT License](./LICENSE) © [Abhinav Das](abhinavdas.com)
